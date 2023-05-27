@@ -1,0 +1,177 @@
+[
+    {
+        "id": 1,
+        "name": "Mak Doni",
+        "logo": "assets/img/makdoni/logo.png",
+        "menu": [
+            {
+                "id": 1,
+                "name": "Burger menu M",
+                "description": "Really tasty burger.",
+                "price": 8.99,
+                "image": "assets/img/makdoni/bm.jpg"
+            },
+            {
+                "id": 2,
+                "name": "Burger menu L",
+                "description": "Really large tasty burger.",
+                "price": 9.99,
+                "image": "assets/img/makdoni/bl.jpg"
+            },
+            {
+                "id": 3,
+                "name": "Burger menu XL",
+                "description": "Really huge tasty burger.",
+                "price": 11.99,
+                "image": "assets/img/makdoni/bx.jpg"
+            },
+            {
+                "id": 4,
+                "name": "Koca Cola",
+                "description": "Healing drink.",
+                "price": 2.99,
+                "image": "assets/img/makdoni/kc.jpg"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "CFK",
+        "logo": "assets/img/cfk/logo.png",
+        "menu": [
+            {
+                "id": 1,
+                "name": "Shawarma",
+                "description": "Awesome shawarma!",
+                "price": 7.99,
+                "image": "assets/img/cfk/sh.jpg"
+            },
+            {
+                "id": 2,
+                "name": "French fries",
+                "description": "Very tasty french fries.",
+                "price": 12.99,
+                "image": "assets/img/cfk/ff.jpg"
+            },
+            {
+                "id": 3,
+                "name": "Burger",
+                "description": "It only looks not good, but it`s really tasty!",
+                "price": 6.99,
+                "image": "assets/img/cfk/bu.jpg"
+            },
+            {
+                "id": 4,
+                "name": "Soda orange",
+                "description": "Healing drink.",
+                "price": 2.5,
+                "image": "assets/img/cfk/so.jpg"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "ShushiHouse",
+        "logo": "assets/img/ShushiHouse/logo.png",
+        "menu": [
+            {
+                "id": 1,
+                "name": "Shushi set #1",
+                "description": "The best sushi in the world.",
+                "price": 4.99,
+                "image": "assets/img/ShushiHouse/1.jpg"
+            },
+            {
+                "id": 2,
+                "name": "Shushi set #2",
+                "description": "The best sushi in the world.",
+                "price": 6.99,
+                "image": "assets/img/ShushiHouse/2.jpg"
+            },
+            {
+                "id": 3,
+                "name": "Shushi set #3",
+                "description": "The best set of the best sushi in the world.",
+                "price": 8.99,
+                "image": "assets/img/ShushiHouse/3.jpg"
+            },
+            {
+                "id": 4,
+                "name": "Shushi set #4",
+                "description": "The largest set of the best sushi in the world.",
+                "price": 12.99,
+                "image": "assets/img/ShushiHouse/4.jpg"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "FreshKitchen",
+        "logo": "assets/img/FreshKitchen/logo.png",
+        "menu": [
+            {
+                "id": 1,
+                "name": "Caesar salad",
+                "description": "The best sushi in the world.",
+                "price": 7.35,
+                "image": "assets/img/FreshKitchen/cs.jpg"
+            },
+            {
+                "id": 2,
+                "name": "Caprese salad",
+                "description": "The best sushi in the world.",
+                "price": 6.0,
+                "image": "assets/img/FreshKitchen/ca.jpg"
+            },
+            {
+                "id": 3,
+                "name": "Pasta salad",
+                "description": "The best set of the best sushi in the world.",
+                "price": 11.2,
+                "image": "assets/img/FreshKitchen/ps.jpg"
+            },
+            {
+                "id": 4,
+                "name": "Greek salad",
+                "description": "The largest set of the best sushi in the world.",
+                "price": 10,
+                "image": "assets/img/FreshKitchen/gs.jpg"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "HotFood",
+        "logo": "assets/img/SeaFood/logo.png",
+        "menu": [
+            {
+                "id": 1,
+                "name": "Ceviche",
+                "description": "Latin American dish of marinated raw seafood.",
+                "price": 3.0,
+                "image": "assets/img/SeaFood/ce.jpg"
+            },
+            {
+                "id": 2,
+                "name": "Curanto",
+                "description": "typical food in Chilean gastronomy based on baking seafood underground.",
+                "price": 4.99,
+                "image": "assets/img/SeaFood/cu.jpg"
+            },
+            {
+                "id": 3,
+                "name": "Halabos",
+                "description": "Filipino process of cooking shrimp, crab, lobster, or fish.",
+                "price": 6.99,
+                "image": "assets/img/SeaFood/he.jpg"
+            },
+            {
+                "id": 4,
+                "name": "Seafood boil",
+                "description": "Type of social event involving the consumption of seafood.",
+                "price": 7.49,
+                "image": "assets/img/SeaFood/sb.jpg"
+            }
+        ]
+    }
+]
